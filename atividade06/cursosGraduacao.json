@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Sistema de Informação",
+        "duração": "4 anos",
+        "tipo": "bacharelado"
+    },
+    {
+        "nome": "Pedagogia",
+        "duração": "4 anos",
+        "tipo": "Licenciatura"
+    },
+    {
+        "nome": "Radiologia",
+        "duração": "2 anos",
+        "tipo": "tecnólogo"
+    },
+    {
+        "nome": "Matemática",
+        "duração": "4 anos",
+        "tipo": "Licenciatura"
+    },
+    {
+        "nome": "Direito",
+        "duração": "4 anos",
+        "tipo": "bacharelado"
+    },
+    {
+        "nome": "Medicina",
+        "duração": "5 anos",
+        "tipo": "bacharelado"
+    },
+    {
+        "nome": "Turismo",
+        "duração": "4 anos",
+        "tipo": "bacharelado"
+    },
+    {
+        "nome": "Física",
+        "duração": "4 anos",
+        "tipo": "Licenciatura"
+    },
+    {
+        "nome": "Gastrnomia",
+        "duração": "4 anos",
+        "tipo": "bacharelado"
+    },
+    {
+        "nome": "Enfermagem",
+        "duração": "4 anos",
+        "tipo": "bacharelado"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Leão",
+        "grupo": "mamíferos",
+        "tipo": "terrestre"
+    },
+    {
+        "nome": "Cão",
+        "especie": "mamífero",
+        "tipo": "terrestre"
+    },
+    {
+        "nome": "Gato",
+        "especie": "mamífero",
+        "tipo": "terrestre"
+    },
+    {
+        "nome": "Hipopótamo",
+        "especie": "mamífero",
+        "tipo": "terrestre"
+    },
+    {
+        "nome": "Baleia",
+        "especie": "mamífero",
+        "tipo": "aquático"
+    },
+    {
+        "nome": "Golfinho",
+        "especie": "mamífero",
+        "tipo": "aquático"
+    },
+    {
+        "nome": "Cavalo",
+        "especie": "mamífero",
+        "tipo": "terrestre"
+    },
+    {
+        "nome": "Avestruz",
+        "especie": "onívoro",
+        "tipo": "terrestre"
+    },
+    {
+        "nome": "Onça",
+        "especie": "carnívoro",
+        "tipo": "terrestre"
+    },
+    {
+        "nome": "Touro",
+        "especie": "herbívoro",
+        "tipo": "terrestre"
+    }
+]

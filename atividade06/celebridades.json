@@ -1,0 +1,53 @@
+[
+    {
+        "nome": "Adriana Esteves",
+        "nacionaliade": "brasileira",
+        "idade": "50 anos "
+    },
+    {
+        "nome": "Jennifer Lopez",
+        "nacionaliade": "americana",
+        "idade": "51 anos"
+    },
+    {
+        "nome": "Thalía",
+        "nacionaliade": "mexicana",
+        "idade": "49 anos"
+    },
+    {
+        "nome": "Juliana Paes",
+        "nacionaliade": "brasileira",
+        "idade": "41 anos "
+    },
+    {
+        "nome": "Rodrigo Santoro",
+        "nacionaliade": "brasileiro",
+        "idade": " 45 anos"
+    },
+    {
+        "nome": "Denzel Washington",
+        "nacionaliade": "americano",
+        "idade": "65 anos"
+    },
+    {
+        "nome": "Will Smith",
+        "nacionaliade": "americano",
+        "idade": "51 anos"
+    },
+    {
+        "nome": "Cauã Reymond",
+        "nacionaliade": "brasileiro",
+        "idade": "40 anos"
+    },
+    {
+        "nome": "Julia Roberts",
+        "nacionaliade": "americana",
+        "idade": "52 anos"
+    },
+    {
+        "nome": "Angelina Jolie",
+        "atuacao": "americana",
+        "idade": "45 anos"
+    }
+    
+]

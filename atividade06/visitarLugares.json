@@ -1,0 +1,52 @@
+[
+    {
+        "destino": "Fernando de Noronha",
+        "lugar": "praia",
+        "periodo": "verão"
+    },
+    {
+        "destino": "Chile",
+        "lugar": "cidade",
+        "periodo": "inverno"
+    },
+    {
+        "destino": "Gramado",
+        "lugar": "cidade",
+        "periodo": "primavera"
+    },
+    {
+        "destino": "Campos do Jodão",
+        "lugar": "campo",
+        "periodo": "inverno"
+    },
+    {
+        "destino": "Caribe",
+        "lugar": "praia",
+        "periodo": "verão"
+    },
+    {
+        "destino": "Joinvile",
+        "lugar": "cidade",
+        "periodo": "primavera"
+    },
+    {
+        "destino": "Roma",
+        "lugar": "cidade",
+        "periodo": "verão"
+    },
+    {
+        "destino": "Ilhas Maldivas",
+        "lugar": "praia",
+        "periodo": "verão"
+    },
+    {
+        "destino": "Pantanal",
+        "lugar": "campo",
+        "periodo": "outono"
+    },
+    {
+        "destino": "Petrópolis",
+        "lugar": "campo",
+        "periodo": "outono"
+    }
+]

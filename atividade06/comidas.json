@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Feijoada",
+        "origem": "brasileira",
+        "valor": "R$ 50,00 "
+    },
+    {   "nome": "Yakisoba",
+        "origem": "chinesa",
+        "valor": "R$ 35,00"
+    },
+    {
+        "nome": "Rabada",
+        "origem": "brasileira",
+        "valor": "R$ 30,00 "
+    },
+    {
+        "nome": "Sushi",
+        "origem": "japonesa",
+        "valor": "R$65,00 "
+    },
+    {
+        "nome": "Bruscheta",
+        "origem": "italiana",
+        "valor": "R$ 49,90 "
+    },
+    {
+        "nome": "Sashimi",
+        "origem": "japonesa",
+        "valor": "R$72,00"
+    },
+    {
+        "nome": "Bolo de Rolo",
+        "origem": "brasileira",
+        "valor": "R$ 25,00 "
+    },
+    {
+        "nome": "Taco",
+        "origem": "mexicana",
+        "valor": "R$20,00 "
+    },
+    {
+        "nome": "Frango Xadrez",
+        "origem": "chinesa",
+        "valor": "R$ 40,00 "
+    },
+    {
+        "nome": "Risoto",
+        "origem": "italiana",
+        "valor": "R$ 60,00 "
+    }
+    
+]

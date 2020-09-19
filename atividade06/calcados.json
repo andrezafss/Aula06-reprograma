@@ -1,0 +1,53 @@
+[
+    {
+        "marca": "Vizzano",
+        "tipo": "sandália",
+        "valor": " R$ 150,00"
+    },
+    {
+        "marca": "Schutz",
+        "tipo": "bota feminina",
+        "valor": "R$ 399,00"
+    },
+    {
+        "marca": "bibi",
+        "tipo": "tênis infantil",
+        "valor": " R$ 110,00"
+    },
+    {
+        "marca": "Via Uno",
+        "tipo": "mocassin",
+        "valor": "R$ 79,90"
+    },
+    {
+        "marca": "bibi",
+        "tipo": "percata infantil",
+        "valor": "R$ 190,00"
+    },
+    {
+        "marca": "Schutz",
+        "tipo": "bota masculina",
+        "valor": "R$ 299,00"
+    },
+    {
+        "marca": "Arezzo",
+        "tipo": "scarpin",
+        "valor": "R$ 159,90"
+    },
+    {
+        "marca": "Vizzano",
+        "tipo": "acarpin",
+        "valor": "R$ 89,90"
+    },
+    {
+        "marca": "Puma",
+        "tipo": "tênis",
+        "valor": "R$ 270,00"
+    },
+    {
+        "marca": "Via Uno",
+        "tipo": "sandália",
+        "valor": "R$ 150,00 "
+    }
+    
+]

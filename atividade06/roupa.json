@@ -1,0 +1,53 @@
+[
+    {
+        "marca": "Zara",
+        "tipo": "vestido",
+        "valor": " R$ 170,00"
+    },
+    {
+        "marca": "Adidas",
+        "tipo": "camisa",
+        "valor": "R$ 80,00"
+    },
+    {
+        "marca": "Nike",
+        "tipo": "bermuda",
+        "valor": " R$ 150,00"
+    },
+    {
+        "marca": "Adidas",
+        "tipo": "casaco",
+        "valor": "R$ 250,00"
+    },
+    {
+        "marca": "Zara",
+        "tipo": "saia",
+        "valor": "R$ 90,00"
+    },
+    {
+        "marca": "Nike",
+        "tipo": "camiseta",
+        "valor": "R$ 60,00"
+    },
+    {
+        "marca": "Nike",
+        "tipo": "camisa",
+        "valor": "R$ 120,00"
+    },
+    {
+        "marca": "Zara",
+        "tipo": "calça",
+        "valor": "R$ 340,00"
+    },
+    {
+        "marca": "Zara",
+        "tipo": "moleton",
+        "valor": "R$ 70,00"
+    },
+    {
+        "marca": "Adidas",
+        "tipo": "short",
+        "valor": "R$ 50,00 "
+    }
+    
+]

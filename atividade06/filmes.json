@@ -1,0 +1,52 @@
+[
+    {
+        "titulo": "As Branquelas",
+        "genero": "Comédia",
+        "ano": "2004"
+    },
+    {
+        "titulo": "Círculo de Fogo",
+        "genero": "Ficção Científica",
+        "ano": "2013"
+    },
+    {
+        "titulo": "Se beber nao case!",
+        "genero": "Comédia",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Interestelar",
+        "genero": "Ficção Científica",
+        "ano": "2014"
+    },
+    {
+        "titulo": "Planeta dos macacos",
+        "genero": "Ficção Científica",
+        "ano": "2011"
+    },
+    {
+        "titulo": "Missão Madrinha de Casamento",
+        "genero": "Comédia",
+        "ano": "2011"
+    },
+    {
+        "titulo": "O Duplo",
+        "genero": "Ficção Científica",
+        "ano": "2013"
+    },
+    {
+        "titulo": "Um Lugar Silencioso",
+        "genero": "Suspense",
+        "ano": "2018"
+    },
+    {
+        "titulo": "O Sexto Sentido",
+        "genero": "Suspense",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Garota Exemplar",
+        "genero": "Suspense",
+        "ano": "2014"
+    }
+]
